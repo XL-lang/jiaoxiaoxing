@@ -24,8 +24,8 @@
       {
         "pagePath": "pages/index/index",
         "text": "",
-        "iconPath": "images/index.png",
-        "selectedIconPath": "images/index_focus.png"
+        "iconPath": "images/article1.png",
+        "selectedIconPath": "images/article.png"
       },
     
       
@@ -33,8 +33,8 @@
       {
         "pagePath": "pages/more/more",
         "text": "",
-        "iconPath": "images/burger.png",
-        "selectedIconPath": "images/burger_focus.png"
+        "iconPath": "images/my1.png",
+        "selectedIconPath": "images/my.png"
       }
     ]
   },

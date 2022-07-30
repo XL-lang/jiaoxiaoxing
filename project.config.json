@@ -6,6 +6,9 @@
     "ignore": [],
     "include": []
   },
+  "usingComponents": {
+    "wemark": "../wemark/wemark"
+  },
   "setting": {
     "coverView": true,
     "es6": true,
